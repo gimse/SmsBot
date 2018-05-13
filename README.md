@@ -18,6 +18,8 @@ App that automatic answer sms with AI. Nonoperational because of api!
 
 * **Pierre David Bélanger** - *Chatbot Api* - [Pierredavidbelanger](https://github.com/pierredavidbelanger)
 
+* **Clipartmag.com** - *Robot Clipart* - [Clipartmag](http://clipartmag.com/free-robot-clipart)
+
 * **Håkon Gimse** - *App* - [Gimse](https://github.com/gimse)
 
 
