@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sms Bot</string>
+    <string name="automatic_answer_sms_with_cleverbot">Automatic answer SMS with Cleverbot</string>
+    <string name="on_off">On/Off</string>
+</resources>
