@@ -7,8 +7,10 @@ import android.os.Bundle;
 import android.telephony.SmsManager;
 import android.telephony.SmsMessage;
 import android.util.Log;
-import android.widget.Toast;
 
+/**
+ * Copyright 2018, Hakon Gimse, All rights reserved.
+ */
 
 public class SmsReceiver extends BroadcastReceiver {
 

@@ -5,13 +5,14 @@ import android.app.Activity;
 import android.content.IntentFilter;
 import android.os.StrictMode;
 import android.support.v4.app.ActivityCompat;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Switch;
 import android.widget.TextView;
 
-
+/**
+ * Copyright 2018, Hakon Gimse, All rights reserved.
+ */
 
 public class MainActivity extends Activity {
     private String s;

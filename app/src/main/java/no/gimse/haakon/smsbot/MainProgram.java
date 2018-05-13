@@ -1,6 +1,5 @@
 package no.gimse.haakon.smsbot;
 
-import android.util.Log;
 import android.widget.Toast;
 
 import chatterbotapi.ChatterBot;
@@ -9,8 +8,9 @@ import chatterbotapi.ChatterBotSession;
 import chatterbotapi.ChatterBotType;
 
 /**
- * Created by lefdal on 19.09.2016.
+ * Copyright 2018, Hakon Gimse, All rights reserved.
  */
+
 public class MainProgram {
     private boolean running;
 
