@@ -2,7 +2,7 @@
 
 # SMS bot
 
-App that automatic answer sms with a chatbot. Nonoperational because of api.
+App that automatic answer sms with AI. Nonoperational because of api!
 
 ## Screencapture
 
@@ -11,6 +11,8 @@ App that automatic answer sms with a chatbot. Nonoperational because of api.
 ## Built With
 
 * [chatter-bot-api](https://github.com/pierredavidbelanger/chatter-bot-api) - ChatterBotApi
+
+<a href="http://clipartmag.com/free-robot-clipart">Free Robot Clipart</a>
 
 ## Authors
 
