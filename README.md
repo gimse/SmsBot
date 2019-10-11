@@ -2,7 +2,7 @@
 
 # SMS bot
 
-App that automatic answer sms with AI. Nonoperational because of api!
+App that automatic answer sms with AI. (Not operational because of api!)
 
 ## Screencapture
 
